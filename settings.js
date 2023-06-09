@@ -19,7 +19,7 @@ global.ONLY_GROUPS = false // Only Groups Use
 global.OWNER_NAME = '𝙴𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐 🅸︎🅰︎' // Owner Name
 global.OWNER_NUMBER = ['94726141180'] //Owner Number
 global.BOT_ADMINS = ['94762928804','94715166712'] //Bot admins numbers
-global.BLOCK_CHAT = [120363159020368174@g.us] // If you want Block Bot From Chats Use .jid Command and put Jids
+global.BLOCK_CHAT = ['120363159020368174@g.us'] // If you want Block Bot From Chats Use .jid Command and put Jids
 
 
 
